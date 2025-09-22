@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const documentaries = () => {
+const MovieCard = () => {
   return (
     <View>
-      <Text>documentaries</Text>
+      <Text>MovieCard</Text>
     </View>
   )
 }
 
-export default documentaries
+export default MovieCard
 
 const styles = StyleSheet.create({})
